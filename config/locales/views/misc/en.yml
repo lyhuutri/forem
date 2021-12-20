@@ -61,20 +61,20 @@ en:
       heading: You're now a part of the community!
       subtitle: SUGGESTED THINGS YOU CAN DO
       close: Close Welcome Message
-      settings_html: "<span class=\"emoji\">💅🏼</span>Customize your profile"
-      welcome_html: "<span class=\"emoji\">😊</span>Join the Welcome thread"
-      write_html: "<span class=\"emoji\">✍🏾</span>Write your first %{community} post"
+      settings_html: "<span class=\"emoji\">💅🏼</span>Tuỳ chỉnh hồ sơ"
+      welcome_html: "<span class=\"emoji\">😊</span>Dành cho người mới"
+      write_html: "<span class=\"emoji\">✍🏾</span>Tạo bài viết %{community} đầu tiên"
     pins:
-      article: Pinned
+      article: Đã ghim
       pinned: "📌 Pinned! (pinned posts display chronologically, 5 max)"
       removed: "🗑 Pin removed"
       error: You can only have five pins
     reading_list:
       meta:
-        title: Reading List
-        description: My saved posts.
+        title: Danh sách đọc
+        description: Bài viết đã lưu.
         og:
-          title: Reading List - %{community}
+          title: Danh sách đọc - %{community}
     search:
       heading: Search results%{for}
       for: " for %{query}"
