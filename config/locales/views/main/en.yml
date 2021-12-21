@@ -4,11 +4,11 @@ en:
     main:
       aria_home: "%{community} Home"
       header:
-        create_account: Create account
+        create_account: Tạo tài khoản
         connect:
           aria_label: Connect
           icon: Connect
-        login: Log in
+        login: Đăng nhập
         nav:
           aria_label: Navigation menu
         moderation:
@@ -20,11 +20,11 @@ en:
         skip: Skip to content
       modal:
         create_account:
-          aria_label: Create new account
-          text: Create account
+          aria_label: Tạo tài khoản mới
+          text: Tạo tài khoản
         login:
           aria_label: Log in
-          text: Log in
+          text: Đăng nhập
         footer: We strive for transparency and don't collect excess data.
       nav:
         admin: Admin
