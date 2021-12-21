@@ -1,0 +1,25 @@
+---
+en:
+  views:
+    stories:
+      meta:
+        description_tagged: "%{tag} nội dung trên %{name}"
+        page: " Trang %{page}"
+        rss: "%{name} RSS Feed"
+      heading: Bài viết
+      discuss: "#discuss"
+      follow: Theo dõi
+      menu:
+        aria_left: nav-button-left
+        aria_right: nav-button-right
+      sort:
+        aria_label: Xem bài viết của
+        aria_tagged: Xem các bài viết được gắn thẻ bởi
+        relevant: Phù hợp nhất
+        week: Tuần
+        month: Tháng
+        year: Năm
+        infinity: Không giới hạn
+        latest: Gần nhất
+        signin_html: "👋 <a href=\"%{path}\">Đăng nhập</a> để có khả năng sắp xếp các bài đăng theo <strong>Top</strong> và  <strong>gần nhất</strong>."
+        top: Top

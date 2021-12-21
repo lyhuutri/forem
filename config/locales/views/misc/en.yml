@@ -1,0 +1,145 @@
+---
+en:
+  views:
+    badges:
+      meta:
+        title: Danh hiệu
+        name: "%{title} Danh hiệu"
+      all:
+        one: Hiển thị một huy hiệu
+        other: Hiển thị tất cả %{count} danh hiệu
+      heading: Các danh hiệu
+      desc: Nhận danh hiệu để trở nên nổi bật và tuyệt vời hơn! Nhấp vào huy hiệu để xem cách bạn có thể kiếm được nó.
+      name: "🏅 %{title} Huy hiệu 🏅"
+    campaign:
+      subtitle: Những câu chuyện (%{count})
+      view: Xem tất cả các bài viết
+    deep_links:
+      subtitle: Mở ứng dụng di động...
+      alert:
+        subtitle: Ơ kìa! Bạn có gặp khó khăn khi cố mở ứng dụng di động không?
+        desc_html: Đảm bảo rằng nó đã được cài đặt và thử lại. Nếu sự cố vẫn tiếp diễn, thì hãy liên hệ nha %{email}
+        back: Đưa tôi trở lại
+        again: Thử lại
+        install: Cài đặt ứng dụng
+    email_subscriptions:
+      unsubscribe:
+        heading: "Bạn đã được hủy đăng ký khỏi %{type}. 😔"
+        description_html: Bạn sẽ không còn nhận được những email như thế này nữa. Nếu bạn muốn đăng ký lại hoặc quản lý các tùy chọn email đầy đủ của mình, vui lòng vào %{link}.
+        link: Bấm vào đây
+      invalid:
+        heading: Mã thông báo hết hạn hoặc không hợp lệ
+        description_html: Vui lòng %{signin} để quản lý các tùy chọn email của bạn.
+        signin: Đăng nhập
+    hamburger:
+      icon: Chức năng điều hướng
+      back: Quay lại
+      forward: Đằng trước
+      refresh: Làm mới
+      icon_close: Đóng
+      icon_left: Danh sách bên trái
+      icon_right: Danh sách bên phải
+    logo:
+      color_1:
+        label: Màu chủ đạo 1
+        description: Sử dụng cho backgrounds, viền ..v..v.
+        select:
+          aria_label: Chọng màu chủ đạo
+          label: Chọn màu chủ đạo
+      color_2:
+        label: Màu phụ
+        description_html: Sử dụng cho văn bản (Thường được đặt trên <em>Màu chủ đạo</em>).
+        select:
+          aria_label: Chọn màu phụ
+          label: Chọn màu phụ
+      preview:
+        icon: App logo
+        text: 'Xem thử:'
+    onboardings:
+      meta:
+        title: Chào mừng dến với %{community}
+      heading: Bạn đã là một phần của Cộng Đồng Design Việt Nam! 🇻🇳
+      subtitle: GỢI Ý NHỮNG VIỆC BẠN CÓ THỂ LÀM
+      close: Đóng Tin Nhắn Chào Mừng
+      settings_html: "<span class=\"emoji\">💅🏼</span>Tùy chỉnh hồ sơ của bạn"
+      welcome_html: "<span class=\"emoji\">😊</span>Chủ Đề cho thành viên Mới"
+      write_html: "<span class=\"emoji\">📝</span>Tạo bài viết %{community} đầu tiên"
+    pins:
+      article: Đã ghim
+      pinned: "📌 Đã ghim! (các bài đăng được ghim hiển thị theo thứ tự thời gian, tối đa 5 ghim)"
+      removed: "🗑 Đã xoá ghim"
+      error: Bạn chỉ có thể đặt tối đa 5 ghim
+    reading_list:
+      meta:
+        title: Danh sách đọc
+        description: Bài viết đã lưu của tôi.
+        og:
+          title: Danh sách đọc - %{community}
+    search:
+      heading: Kết quả tìm kiếm%{for}
+      for: " cho %{query}"
+      placeholder: Tìm kiếm...
+      icon:
+        aria_label: Tìm kiếm
+        title: Tìm kiếm
+      nav:
+        posts: Bài viết
+        podcasts: Podcasts
+        people: Thành viên
+        comments: Bình luận
+        my_posts: Chỉ bài viết của tôi
+      sort:
+        aria_label: Các tùy chọn sắp xếp kết quả tìm kiếm
+        relevance: Liên quan nhất
+        newest: Mới nhất
+        oldest: Cũ nhất
+      meta:
+        title: Kết quả tìm kiếm%{for}
+        for: " cho %{query}"
+        description: "%{site} => Kết quả tìm kiếm"
+    series:
+      meta:
+        description: Xem %{title} trên %{site}
+      heading: "%{user}'s Series"
+      empty: Người dùng này không có bất kỳ chuỗi nào
+      list:
+        heading: "%{series} Series' Articles"
+        back: Quay lại %{user}'s Series
+        empty: Series này không có bất kỳ bài viết nào
+    sponsor:
+      icon: Thích
+      seek: Trở thành nhà tài trợ
+    stats:
+      meta:
+        title: Số liệu thống kê cho bài viết của bạn
+      heading_html: Số liệu thống kê cho "%{article}"
+      period:
+        aria_label: Kỳ phân tích
+        week: Tuần
+        month: Tháng
+        infinity: Không giới hạn
+      readers: Tóm tắt người đọc 
+      followers: Tóm tắt Người theo dõi Mới
+      reactions: "Tóm tắt tương tác ❤🦄🔖"
+      comments: "Tóm tắt nhận xét 💬"
+      traffic:
+        text: "Tóm tắt nguồn lưu lượng truy cập 🚦"
+        source: Nguồn
+        views: Xem
+    sticky:
+      joined: Đã tham gia
+      default_cta: Tìm hiểu thêm
+      email: Email
+      hot: Hot
+      location: Vị trí
+      more_from_html: Thêm từ %{actor}
+      no_summary: Bài đăng trong tag
+      trending_html: Thịnh hành trên %{app}
+    videos:
+      meta:
+        title: Videos
+        og:
+          description: Tất cả các video trên %{community}
+      heading: "%{community} trên Video"
+      beta_html: "<strong>Video là bản beta:</strong> %{contact}"
+      upload: "🎥 Tải lên tệp video 🙌"

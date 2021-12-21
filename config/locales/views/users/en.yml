@@ -1,0 +1,94 @@
+---
+en:
+  views:
+    users:
+      meta:
+        og:
+          title: "%{user} — %{community} Profile"
+      comments:
+        all:
+          one: Tất cả %{count} bình luận
+          other: Tất cả %{count} bình luận
+        last:
+          one: %{count} bình luận cuối
+          other: %{count} bình luận cuối
+        recent: Bình luận gần đây
+        view: Xem tất cả hoạt động
+        view_all:
+          one: Xem tất cả %{count} bình luận
+          other: Xem tất cả %{count} bình luận
+        view_last:
+          one: Xem 1 bình luận cuối.
+          other: Xem %{count} bình luận cuối.
+      github:
+        heading: GitHub Repositories
+        fork: Fork
+        stars:
+          one: 1 sao
+          other: "%{count} sao"
+      pin_icon: Ghim
+      pinned: Đã ghim
+      profile_fields:
+        bio:
+          label: Bio
+          placeholder: Tóm tắt bản thân...
+        display_email_on_profile: Cho mọi người thấy email cá nhân.
+        location:
+          label: Nơi sống
+          placeholder: Hồ Chí Minh, Đà Nẵng, Hà Nội ...
+        website:
+          label: Website URL
+          placeholder: https://yoursite.com
+        education: Học vấn
+        currently_learning: Trình độ hiện tại
+        currently_hacking_on: Currently hacking on
+        available_for: Sẵn sàng cho
+        skills_languages: Kỹ năng/Ngôn ngữ
+        work: Công việc
+      side:
+        comment:
+          icon: Bình luận
+          text:
+            one: 1 bình luận dạo
+            other: "%{count} bình luận dạo"
+        org: Tổ chức
+        post:
+          icon: Bài viết
+          text:
+            one: Đã tạo 1 chủ đề
+            other: Đã tạo "%{count} chủ đề"
+        tag:
+          icon: Tag
+          text:
+            one: Đang theo dõi 1 tag
+            other: Đang theo dõi"%{count} tags "
+      signout:
+        meta:
+          title: Xác nhận đăng xuất - %{community}
+        heading: Chắc chắn đăng xuất ?
+        'yes': Chắc 100%, đăng xuất liền!
+      block: Block @%{user}
+      chat: Chat
+      chat_with: Chat với %{user}
+      close: Đóng modal
+      details: "%{user} chỉ tiết profile"
+      dropdown: Hành động người dùng
+      email_icon: Email address
+      empty: 404 bio not found
+      flag: Cờ @%{user}
+      follow: Theo dõi
+      guidelines: "%{user}'s guidelines:"
+      joined:
+        icon: Đã tham gia
+        text_html: "Đã tham gia \_%{date}"
+      location_icon: Nơi sống
+      logo: "%{user} Ảnh đại diện"
+      more: Xem thêm thông tin @%{user}
+      send_pm:
+        code: code of conduct
+        notice_html: Tất cả tương tác riêng tư <b>phải</b> tuân thủ theo %{code}.
+        placeholder: Nhập lời nhắn của bạn...
+        submit: Gởi
+      social: "%{service} website"
+      unflag: Unflag @%{user}
+      website: Website cá nhân

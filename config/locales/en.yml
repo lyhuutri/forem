@@ -1,0 +1,177 @@
+---
+en:
+  contact_prompts:
+    if_any_questions_html: <a href="/contact">Contact us</a> if you have any questions.
+    if_continued_trouble_html: <a href="/contact">Contact us</a> if you continue having trouble.
+    if_we_can_help_html: <a href="/contact">Contact us</a> if there is anything we can help with.
+  core:
+      add_comment: Thêm bình luận
+    beta: beta
+    comment: Bình luận
+    copy_link: Copy link
+    edit_profile: Tuỳ chỉnh hồ sơ
+    follow: Theo dõi
+    follow_back: Theo dõi lại
+    following: Theo dõi
+    like: Thích
+    loading: Đang tải...
+    reaction: Tương tác
+    report_abuse: Báo cáo lạm dụng
+    search: Tìm kiếm
+  datetime:
+    distance_in_words_ago: # https://github.com/openstreetmap/openstreetmap-website/issues/2255
+      about_x_hours:
+        one: 1 tiếng trước
+        other: about %{count} hours ago
+      about_x_months:
+        one: 1 tháng trước
+        other: about %{count} months ago
+      about_x_years:
+        one: 1 năm trước
+        other: about %{count} years ago
+      almost_x_years:
+        one: Gần 1 năm trước
+        other: Gần %{count} năm trước
+      half_a_minute: Nữa 1 phút trước
+      less_than_x_seconds:
+        one: Chưa đầy 1 giây trước
+        other: Chưa đầy %{count} 1 giây trước
+      less_than_x_minutes:
+        one: Chưa đầy 1 phút trước
+        other: Chưa đầy %{count} 1 phút trước
+      over_x_years:
+        one: Hơn 1 năm trước
+        other: over %{count} years ago
+      x_seconds:
+        one: 1 giây trước
+        other: "%{count} seconds ago"
+      x_minutes:
+        one: 1 phút trước
+        other: "%{count} minutes ago"
+      x_days:
+        one: 1 ngày trước
+        other: "%{count} days ago"
+      x_months:
+        one: 1 tháng trước
+        other: "%{count} months ago"
+      x_years:
+        one: 1 năm trước
+        other: "%{count} years ago"
+    expired_ago:
+      about_x_hours:
+        one: Đã hết hạn khoảng 1 giờ trước
+        other: Đã hết hạn khoảng %{count} giờ trước
+      about_x_months:
+        one: Đã hết hạn khoảng 1 tháng trước
+        other: Đã hết hạn khoảng %{count} tháng trước
+      about_x_years:
+        one: Đã hết hạn khoảng 1 năm trước
+        other: Đã hết hạn khoảng %{count} năm trước
+      almost_x_years:
+        one: Đã hết hạn gần 1 năm trước
+        other: Đã hết hạn gần %{count} năm trước
+      half_a_minute: Đã hết hạn nữa phút trước
+      less_than_x_seconds:
+        one: Đã hết hạn chưa được 1 giây trước
+        other: Đã hết hạn chưa được %{count} giây trước
+      less_than_x_minutes:
+        one: Đã hết hạn chưa được 1 phút trước
+        other: Đã hết hạn chưa được %{count} phút trước
+      over_x_years:
+        one: Đã hết hạn hơn 1 năm trước
+        other: Đã hết hạn hơn %{count} 1 năm trước
+      x_seconds:
+        one: Đã hết hạn 1 giây trước
+        other: Đã hết hạn %{count} giây trước
+      x_minutes:
+        one: Đã hết hạn 1 phút trước
+        other: Đã hết hạn %{count} phút trước
+      x_days:
+        one: Đã hết hạn 1 ngày trước
+        other: Đã hết hạn %{count} ngày trước
+      x_months:
+        one: Đã hết hạn 1 tháng trước
+        other: Đã hết hạn %{count} tháng trước
+      x_years:
+        one: Đã hết hạn 1 năm trước
+        other: Đã hết hạn %{count} năm trước
+    expires_in:
+      about_x_hours:
+        one: Hết hạn trong 1 tiếng
+        other: Đã hết hạn trong %{count} tiếng
+      about_x_months:
+        one: Hết hạn trong 1 tháng
+        other: Hết hạn trong %{count} tháng
+      about_x_years:
+        one: Hết hạn trong 1 năm
+        other: Hết hạn trong %{count} năm
+      almost_x_years:
+        one: Hết hạn sau 1 năm
+        other: Hết hạn sau %{count} năm
+      half_a_minute: Hết hạn chưa đầy 1 phút
+      less_than_x_seconds:
+        one: Hết hạn chưa đầy 1 giây
+        other: Hết hạn chưa đầy %{count} giây
+      less_than_x_minutes:
+        one: Hết hạn chưa đầy 1 phút
+        other: Hết hạn %{count} phút
+      over_x_years:
+        one: Hết hạn hơn 1 năm
+        other: Hết hạn hơn %{count} năm
+      x_seconds:
+        one: Hết hạn trong 1 giây
+        other: Hết hạn trong %{count} giây
+      x_minutes:
+        one: Hết hạn trong 1 phút
+        other: Hết hạn trong %{count} phút
+      x_days:
+        one: Hết hạn trong 1 ngày
+        other: Hết hạn trong %{count} ngày
+      x_months:
+        one: Hết hạn trong 1 tháng
+        other: Hết hạn trong %{count} tháng
+      x_years:
+        one: Hết hạn trong 1 năm
+        other: Hết hạn trong %{count} năm
+  errors:
+    messages:
+      accepted: Phải được chấp nhận
+      bad_protocol: Phải bắt đầu bằng %{protocols}
+      bad_uri: Là một URL không hợp lệ
+      blank: Không thể bỏ trống
+      confirmation: doesn't match %{attribute}
+      empty: Không thể bỏ trống
+      equal_to: must be equal to %{count}
+      even: must be even
+      exclusion: is reserved
+      greater_than: must be greater than %{count}
+      greater_than_or_equal_to: must be greater than or equal to %{count}
+      inclusion: is not included in the list
+      invalid: is invalid
+      less_than: must be less than %{count}
+      less_than_or_equal_to: must be less than or equal to %{count}
+      model_invalid: 'Validation failed: %{errors}'
+      not_a_number: is not a number
+      not_an_integer: must be an integer
+      odd: must be odd
+      other_than: must be other than %{count}
+      present: must be blank
+      required: must exist
+      taken: has already been taken
+      too_long:
+        one: is too long (maximum is 1 character)
+        other: is too long (maximum is %{count} characters)
+      too_short:
+        one: is too short (minimum is 1 character)
+        other: is too short (minimum is %{count} characters)
+      wrong_length:
+        one: is the wrong length (should be 1 character)
+        other: is the wrong length (should be %{count} characters)
+  time:
+    formats:
+      json: "%b %e, %Y"
+      comment: "%B %d, %Y"
+      short: "%b %-e"
+      short_with_year: "%b %-e, %Y"
+      stackexchange: "%b %e '%y"
+      tweet: "%H:%M %p - %d %b %Y"

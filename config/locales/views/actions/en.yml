@@ -1,0 +1,25 @@
+---
+en:
+  views:
+    actions:
+      copy:
+        text: Sao chép vào Clipboard
+        title: Sao chép article link vào clipboard
+        button: sao chép link
+      more:
+        title: Thêm nữa ...
+        aria_label: Cài đặt chia sẻ bài viết
+      share:
+        facebook:
+          text: Chia sẻ lên Facebook
+        hackernews:
+          text: Chia sẻ lên Hacker News
+        linkedin:
+          text: Chia sẻ lên LinkedIn
+        reddit:
+          text: Chia sẻ lên Reddit
+        twitter:
+          text: Chia sẻ lên Twitter
+          query: '"%{article}" bởi %{author}'
+        link: Share Post via...
+        report: Báo cáo

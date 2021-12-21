@@ -1,0 +1,83 @@
+---
+en:
+  views:
+    listings:
+      meta:
+        description: "%{community} Listing"
+      heading: Danh sách
+      back: Quay lại
+      delete:
+        subtitle: Bạn có chắc chắn muốn xóa danh sách này không?
+        description:
+          text_html: Bạn không thể hoàn tác hành động này, có lẽ bạn chỉ muốn thay thế %{action}?
+          edit: Chỉnh sửa
+          unpublish: Huỷ xuất bản
+        edit: Chỉnh sửa
+        submit: Xoá
+        unpublish: Huỷ xuất bản
+      edit:
+        heading: Chỉnh sửa danh sách
+        bump:
+          subtitle: Bump danh sách của bạn
+          button: Bump danh sách
+          description: Bạn có thể bump danh sách của mình cùng một mức giá với danh sách ban đầu.
+          last: 'Last Published/Bumped: %{date}'
+        notice: Bạn chỉ có thể chỉnh sửa tiêu đề/nội dung/tags của bản nháp hoặc với 24 giờ đầu tiên của danh sách hoặc bumping
+        not_published:
+          text_html: Danh sách này %{not} published.
+          aside_html: Danh sách này %{not} published
+          not: không
+        publish: Công khai danh sách
+        unpublish: Huỷ công khai danh sách
+        update: Cập nhật danh sách
+        update_draft: Cập nhật bản nháp
+      to_edit: Chỉnh sửa
+      errors:
+        one: '1 lỗi đã cấm danh sách này được lưu:'
+        other: "%{count} lỗi đã cấm danh sách này được lưu:"
+      expired: Danh sách này đã hết hạn.
+      form:
+        body_markdown:
+          description: 400 ký tự tối đa, tối đa 12 ngắt dòng, không cho phép hình ảnh, * khuyến khích đánh dấu *. Vui lòng bao gồm một phương thức liên hệ nếu cần thiết.
+          placeholder: "..."
+        category:
+          label: Phân loại
+          placeholder: Conference CFP (1 Credit)
+          summary: Chi tiết danh mục / quy tắc
+        connect:
+          subtitle: Kết nối tin nhắn
+          description: Cho phép người dùng nhắn tin cho tôi qua Connect.
+        expiry:
+          description: Nếu áp dụng cho các sự kiện nhạy cảm về thời gian, thời hạn, v.v..
+        location:
+          description: 32 số ký tự tối đa, văn bản thuần túy
+          label: Vị trí (If applicable for events, etc.)
+          placeholder: Hồ Chí Minh
+        no_credit: Bạn cần ít nhất một khoản tín dụng để tạo một danh sách.
+        organization:
+          description: Đăng thay mặt cho một tổ chức chi tiêu các khoản tín dụng của tổ chức.
+          none: Không có
+        publish: Công khai danh sách
+        purchase: Mua tín dụng
+        save: Lưu bản nháp
+        save_notice: Bạn sẽ không bị tính phí tín dụng để lưu bản nháp.
+        tags:
+          placeholder: Thêm tối đa 8 tags...
+        title:
+          placeholder: 128 số ký tự tối đa, văn bản thuần túy
+      nav:
+        aria_label: Danh sách
+        create: Tạo
+        manage: Quản lý
+      new:
+        meta:
+          title: Danh sách mới
+        heading: Tạo danh sách cộng đồng
+        buy: Tiếp tục mua
+        disclaimer:
+          subtitle: Tuyên bố từ chối trách nhiệm
+          description1: "%{community} quản trị viên có thể sửa đổi các thẻ và danh mục để đảm bảo độ chính xác. Chúng tôi cũng có thể gỡ xuống và hoàn lại tiền cho các danh sách không phù hợp."
+          description2: Danh sách sẽ hết hạn sau 30 ngày kể từ khi chúng được xuất bản hoặc "bumped".
+        organization: Tổ chức tín dụng
+        personal: Tín dụng cá nhân
+      preview_icon: DEV logo

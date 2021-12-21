@@ -1,0 +1,44 @@
+---
+en:
+  views:
+    liquids:
+      github:
+        view: Xem trên GitHub
+      medium:
+        logo: Medium Logo
+      poll:
+        show_results: Chỉ cần cho tôi xem kết quả
+      reddit:
+        author: 'Author: %{author}'
+        see: Xem toàn bộ bài viết
+      stackexchange:
+        answer:
+          text_html: "%{answer} re: %{title}"
+          answer: Trả lời
+        answers: 'Trả lời: %{count}'
+        comments: 'Bình luận: %{count}'
+        open:
+          answer: Xem đầy đủ câu trả lời
+          article: Mở đầy đủ bài báo
+          question: Xem đầy đủ câu hỏi
+      twitter:
+        view: Xem trên Twitter
+      user_subscription:
+        confirm:
+          subtitle: Xác nhận đăng ký
+          button_text: Xác nhận đăng ký
+          cancel_text: Hủy bỏ
+          text_html: Bạn sẽ chia sẻ địa chỉ email của mình%{email}, username, name, và DEV profile URL với %{username}. Một khi bạn làm điều này, bạn không thể hoàn tác lại.
+        logged_out: Trước tiên bạn phải đăng nhập vào DEV.
+        sign_in: Đăng nhập
+        subscribe:
+          apple:
+            button: Đăng ký
+            desc_html: Xin chào! Có vẻ như khi bạn tạo tài khoản DEV, bạn đã đăng ký với Apple bằng địa chỉ email chuyển tiếp riêng tư. Nếu bạn muốn đăng ký, vui lòng %{update} đầu tiên hãy tìm một địa chỉ email khác.
+            update: cập nhật địa chỉ email của bạn trong Cài đặt
+          button: Đăng ký
+          desc_html: Bạn sẽ đăng ký với %{email} địa chỉ email được liên kết với tài khoản DEV của bạn. Để sử dụng một địa chỉ email khác, bạn có thể %{update}.
+          update: Cập nhật địa chỉ email của bạn trong Cài đặt
+      wikipedia:
+        logo: Wikipedia Logo
+        view: Xem tại Wikipedia

@@ -1,0 +1,28 @@
+---
+en:
+  views:
+    editor:
+      meta:
+        title: Chỉnh sửa bài viết
+      heading:
+        new: Bài viết mới
+      create: Tạo bài viết
+      close:
+        icon: Đóng
+        title: Đóng trình chỉnh sửa
+      cover_image:
+        add: Thêm ảnh cover
+        change: Thay đổi
+      edit: Chỉnh sửa
+      modes: Xem các chế độ đăng bài
+      new_title: Tiêu đề bài viết mới tại đây...
+      preview: Xem trước
+      video:
+        progress:
+          heading: "⏳ Đang chuyển mã video ⏳"
+          notice_1: Bạn sẽ nhận được email khi quá trình này kết thúc.
+          notice_2: Đây là một bài bình thường chưa được xuất bản. Thêm tiêu đề/tags/nội dụng/..v..v, và sau đó đánh dấu là đã xuất bản sau khi video được xử lý xong.
+        submit_image:
+          button: Xác nhận thay đổi
+          text: 'Preview Image URL: '
+          placeholder: URL hình thu nhỏ mới

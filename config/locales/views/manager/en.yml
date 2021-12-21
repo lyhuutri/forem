@@ -1,0 +1,25 @@
+---
+en:
+  views:
+    manager:
+      meta:
+        title: Quản lý %{title}
+      error:
+        pins: "U là trời! %{error} 😬"
+      tools:
+        heading: 'Công cụ:'
+        subtitle: 'Experience Level of Post:'
+        text_html: "Is your post written more for a beginner or an advanced audience? Adjust this level as a <em>gentle</em> indicator which will help show the post to the people who will benefit the most."
+      nav:
+        dashboard: Dashboard
+        text: "👉 Quản lý bài đăng"
+      rating:
+        heading: Experience Level of Post
+        text: Bài đăng này phù hợp với?
+        lower: "👈 Người mới"
+        higher: "Chuyên gia 👉"
+      tips:
+        heading: 'Tips:'
+        text_1: Write your own tweet about the post, describing personally why you wrote it or why people might find it useful. We may retweet you.
+        text_2_html: 'Share to link aggregators such as <a href="https://www.reddit.com">Reddit</a>. Try to choose the most topic-specific subreddits, such as <a href="https://www.reddit.com/r/javascript">/r/javascript</a> or <a href="https://www.reddit.com/r/python">/r/python</a>, etc. <em>Warning: jerks and trolls may be lurking.</em>'
+        text_3: Share with your co-workers or local communities. Ask people to leave questions for you in the comments. It's a great way to spark additional discussion.

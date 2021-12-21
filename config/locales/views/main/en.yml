@@ -1,0 +1,78 @@
+---
+en:
+  views:
+    main:
+      aria_home: "%{community} Home"
+      header:
+        create_account: Tạo tài khoản
+        connect: Kết nối
+          aria_label: Kết nối
+          icon: Kết nối
+        login: Đăng nhập
+        nav:
+          aria_label: Menu điều hứơng
+        moderation:
+          aria_label: Moderation
+          icon: Moderation
+        notifications: Thông báo
+          aria_label: Thông báo
+          icon: Thông báo
+        skip: Bỏ qua nội dung
+      modal:
+        create_account: Tạo tài khoản
+          aria_label: Tạo tài khoản
+          text:  Tạo tài khoản
+        login:
+          aria_label: Đăng nhập
+          text: Đăng nhập
+        footer: Chúng tôi luôn minh bạch và không thu thập dữ liệu người dùng.
+      nav:
+        admin: Admin
+        dashboard: Dashboard
+        placeholder: "..."
+        list: Danh sách
+        moderator_center: Trung tâm điều hành
+        other: Khác
+        settings: Cài đặt chung
+      nav_name:
+        About: Giới thiệu
+        Code of Conduct: Quy tắc ứng xử
+        Contact: Liên hệ
+        FAQ: FAQ
+        Listings: Danh sách
+        Podcasts: Podcasts
+        Privacy Policy: Chính sách bảo mật
+        Reading List: Danh sách đọc
+        Sponsors: Sponsors
+        Tags: Tags
+        Terms of use: Hướng dẫn
+        Videos: Videos
+      side:
+        listings:
+          heading: Danh sách
+          all: Xem tất cả
+          new: Tạo danh sách
+        trend: Guides thịnh hành/tài nguyên
+        recent: Truy vấn gần đây
+      tags:
+        aria_label: Thay đổi quyền ưu tiên của thẻ tag
+        follow:  Theo dõi
+        my_tags: Tags của tôi
+        popular_tags: Tags phổ biến
+      footer:
+        aria_label: Thông tin trang
+        built:
+          text_html: Cộng đồng thiết kế vndes.vn - Kết nối đam mê cùng nhau.
+          forem: DiA-Demy
+          opensource: Mã nguồn mở
+          dev: DEV
+        desc: "%{community} – %{desc}"
+        logo: Forem logo
+        powered:
+          text_html: Tạo ra từ tình yêu với %{rails}. %{community} <span title="copyright">&copy;</span> %{copyright}.
+          rails: Ruby on Rails
+      home: Trang chủ
+      create_post: Tạo chủ đề
+      signout: Đăng xuất
+      signup:  Đăng ký/Đăng nhập
+

@@ -1,0 +1,6 @@
+---
+en:
+  services:
+    payments:
+      errors:
+        select_payment_method: "Vui lòng chọn một phương thức thanh toán"

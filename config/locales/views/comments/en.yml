@@ -1,0 +1,155 @@
+---
+en:
+  views:
+    comments:
+      meta:
+        title_root: Thảo luận về %{title}
+        description: Một bài viết từ cộng đồng
+        og:
+          title: Thảo luận về %{title}
+          title_rel: "%{root} — %{site}"
+          title_root: "[Discussion] %{title} — %{site}"
+          description: "%{site} Comment"
+      messages:
+        create:
+          success: Đã tạo
+          failure: B luận đã tồn tại
+        markdown: 'Đã xảy ra lỗi trong đánh dấu của bạn: %{error}'
+        markdown_html: "<p>😔 Đã xảy ra lỗi trong đánh dấu của bạn</p><hr><p>%{error}</p>"
+      parent:
+        subtitle_html: "%{start}Thảo luận về: %{end}%{title}"
+        metadata_html: "%{name}%{on}"
+        date: "on %{date}"
+        full: Thảo luận đầy đủ
+        read: Đọc toàn bộ bài đăng
+        view: Xem bài viết
+        view_full:
+          one: Xem toàn bộ cuộc thảo luận (%{count} bình luận)
+          other: Xem toàn bộ cuộc thảo luận (%{count} bình luận)
+        reply_html: "%{start}Replies for:%{end} %{title}"
+      delete:
+        heading: Bạn có chắc bỏ bình luận này?
+        desc_html: Bạn không thể hoàn tác hành động này, có lẽ bạn chỉ muốn thay thế %{action}?
+        action: Chỉnh sửa
+        error: Có gì đó không đúng; Nhận xét KHÔNG bị xóa.
+        notice: Nhận xét đã được xóa thành công.
+        submit: Xoá
+        edit: Sửa
+        cancel: Bỏ qua
+      collapse: Thu gọn
+      edit: Chỉnh sửa bình luận
+      edited:
+        text_html: "&bull; Đã sửa %{on}"
+        on_html: Bật %{date}
+      expand: Mở rộng
+      hidden:
+        text_html: Một số bình luận đã bị ẩn bởi tác giả của bài đăng - %{info}
+        info: Tìm hiểu thêm
+      hider:
+        description_html: Bạn có chắc chắn muốn ẩn nhận xét này không? Nó sẽ bị ẩn trong bài đăng của bạn, nhưng vẫn hiển thị qua nhận xét của %{permalink}.
+        hide_child: Ẩn cả nhận xét của trẻ em
+        note_html: Đối với các hành động khác, bạn có thể xem xét chặn người này và / hoặc %{reporting}
+        permalink: liên kết cố định
+        reporting: báo cáo lạm dụng
+        submit: Xác nhận
+      locked: Cuộc thảo luận đã bị khóa. Nhận xét mới không thể được thêm vào.
+      orphan:
+        deleted: "[Nhận xét từ một bài đã xóa]"
+      re:
+        text_html: "%{re}%{title}"
+        re: 'Re: '
+      settings:
+        meta:
+          title: Cài đặt Nhận xét
+        heading: Cài đặt Nhận xét
+        state:
+          show:
+            subtitle: Hiển thị thông báo chuỗi
+            desc: Bạn sẽ nhận được tất cả các thông báo cho nhận xét này và bất kỳ nhận xét nào của bạn trong chuỗi này.
+          mute:
+            subtitle: Ẩn chuỗi thông báo
+            desc: Tất cả các thông báo cho nhận xét này và bất kỳ nhận xét nào của bạn trong chuỗi hiện đang bị tắt tiếng.
+        subscribe:
+          subtitle: Đăng ký
+          desc: Bạn vẫn đăng ký nhận tất cả các nhận xét trong chuỗi rộng hơn, điều đó có nghĩa là bạn sẽ vẫn nhận được thông báo cho các câu trả lời cho nhận xét này.
+          mute: Ẩn thông báo
+          unmute: Hiển thị thông báo
+      quality:
+        low: Nhận xét được cộng đồng đánh dấu là chất lượng thấp / không mang tính xây dựng.
+        conduct: Xem Quy tắc Ứng xử
+        hidden:
+          icon: Thông tin
+          text:
+            visible_in_permalink: Nhận xét bị ẩn bởi tác giả bài viết - chủ đề chỉ hiển thị trong liên kết cố định này
+            accessible_via_permalink: Nhận xét bị ẩn bởi tác giả bài viết - chủ đề chỉ có thể truy cập thông qua liên kết cố định
+      write:
+        errors:
+          one: '1 lỗi bị cấm lưu nhận xét này:'
+          other: "%{count} lỗi đã cấm bình luận này được lưu:"
+        field:
+          aria_label: Thêm nhận xét vào cuộc thảo luận
+          placeholder: Thêm vào cuộc thảo luận
+          submit: Tải lên
+          templates: Templates
+          upload: Tải ảnh lên
+          use: Sử dụng mẫu phản hồi
+          guide:
+            title: Hướng dẫn Markdown
+            icon: Hướng dẫn biên tập viên
+        template:
+          article: Bài đăng này đi kèm với một mẫu bình luận
+          create:
+            subtitle: Tạo template
+            desc: Templates cho phép bạn nhanh chóng trả lời các Câu hỏi thường gặp hoặc lưu trữ các đoạn trích để sử dụng lại.
+          moderator: Người điều hành
+          personal: Cá nhân
+        submit: Gởi
+        preview: Xem trước
+        cancel: Bỏ qua
+      menu:
+        aria_label: Chuyển đổi dropdown menu
+        icon: Dropdown menu
+        copy:
+          aria_label: Sao chép đường dẫn bình luận của %{user}
+          text: Sao chép đường dẫn
+        settings:
+          aria_label: Đi đến cài đặt bình luận của %{user}
+        action:
+          aria_label: "%{action} %{user}'s comment"
+          hide: Ẩn
+          unhide: Hiện
+          hide_text: Ẩn
+          unhide_text: Hiện
+        moderate:
+          aria_label: Kiểm duyệt bình luận của %{user}
+        report:
+          aria_label: Báo cáo bình luận của %{user} là lạm dụng hoặc vi phạm quy tắc ứng xử và / hoặc các điều khoản và điều kiện của chúng tôi.
+      footer:
+        heart:
+          title: Thích
+          icon: 'Thích bình luận: '
+          count_html: "%{num}%{likes}"
+          text: Thích
+        reply:
+          aria_label: Trả lời bình luận...
+          icon: Nút bình luận
+          done: Đã trả lời
+          text: Hồi đáp
+          placeholder: Hồi đáp...
+        thread:
+          icon: Chủ đề
+          text: Chủ đề
+        view:
+          icon: Nút xem
+          text: Xem
+      count:
+        one: "%{count} bình luận"
+        other: "%{count} bình luận"
+      empty: Mới
+      add: "Add\_Comment"
+      summary:
+        count_html:
+          one: "%{count}%{start}\_comment%{end}"
+          other: "%{count}%{start}\_comments%{end}"
+        title: Bình luận
+

@@ -1,0 +1,14 @@
+---
+en:
+  xml:
+    opensearch:
+      short_name: "%{community} Tìm kiếm"
+      description: Tìm bài viết từ %{community}.
+    user:
+      image: "%{user} hình ảnh hồ sơ cá nhân"
+  json:
+    author: Tác giả %{community} Đang hoạt động
+  mailer:
+    adjust: Điều chỉnh cài đặt email của bạn
+    adjust_only_html: Bạn không muốn nhận những email như thế này? Điều chỉnh cài đặt email của bạn tại %{path}
+    unsubscribe: Hủy đăng ký
