@@ -3,20 +3,20 @@ en:
   views:
     editor:
       meta:
-        title: Edit Post
+        title: Chỉnh sửa bài viết
       heading:
-        new: New Post
-      create: Create Post
+        new: Bài viết mới
+      create: Tạo chủ đề
       close:
         icon: Close
-        title: Close the editor
+        title: Đóng trình chỉnh sửa
       cover_image:
-        add: Add a cover image
-        change: Change
-      edit: Edit
-      modes: View post modes
-      new_title: New post title here...
-      preview: Preview
+        add: Thêm ảnh cover
+        change: Thay đổi
+      edit: Chỉnh sửa
+      modes: Xem các chế độ đăng bài
+      new_title: Tiêu đề bài viết mới tại đây...
+      preview: Xem trước
       video:
         progress:
           heading: "⏳ Video Transcoding In Progress ⏳"
