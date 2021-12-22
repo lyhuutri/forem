@@ -15,7 +15,7 @@ en:
         count_html:
           one: "%{count}%{start}\_reaction%{end}"
           other: "%{count}%{start}\_reactions%{end}"
-        title: Reactions
+        title: Tương tác
       like:
         title: Heart
         aria_label: Like
@@ -28,4 +28,4 @@ en:
         title: Save
         aria_label: Add to reading list
         icon: Save button
-        text: Save
+        text: Lưu
