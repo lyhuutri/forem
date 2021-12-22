@@ -5,7 +5,7 @@ en:
       background: forem background
       create:
         aria_label: Create new account
-        text: Create account
+        text: Tạo tài khoản
       creator:
         text1: Let's start your Forem journey!
         text2: Create your admin account first.
@@ -14,19 +14,19 @@ en:
           aria_label: Edit username
           icon: Edit username
           text_html: "%{start}Your username will be\_%{end}%{button}"
-        submit: Create my account
+        submit: Tạo tài khoản
       login:
         aria_label: Log in
-        text: Log in
-        continue: Continue
-        forgot: I forgot my password
+        text: Đăng nhập
+        continue: Tiếp tục
+        forgot: Quên mật khẩu
       provider:
         text: "%{action} with %{provider}"
-        login: Continue
-        signup: Sign up
+        login: Tiếp tục
+        signup: Đăng ký
         email:
           icon: email
-          text: Sign up with Email
+          text: Đăng ký với Email
       register:
         errors:
           one: Whoops, we found %{count} problem
@@ -34,7 +34,7 @@ en:
         allow:
           one_html: Registration restricted to <strong>@%{domain}</strong> emails.
           list: Registration restricted to the following emails
-        create: Create your account
+        create: Tạo tài khoản
         field:
           name:
             aria_label: Name
