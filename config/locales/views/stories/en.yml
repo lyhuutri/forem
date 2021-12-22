@@ -15,11 +15,11 @@ en:
       sort:
         aria_label: View posts by
         aria_tagged: View tagged posts by
-        relevant: Relevant
-        week: Week
-        month: Month
-        year: Year
-        infinity: Infinity
-        latest: Latest
+        relevant: Liên quan
+        week: Tuần
+        month: Tháng
+        year: Năm
+        infinity: Không giới hạn
+        latest: Mới nhất
         signin_html: "👋 <a href=\"%{path}\">Sign in</a> for the ability sort posts by <strong>top</strong> and  <strong>latest</strong>."
-        top: Top
+        top: Thịnh hành
