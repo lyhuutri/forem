@@ -5,19 +5,19 @@ en:
     if_continued_trouble_html: <a href="/contact">Contact us</a> if you continue having trouble.
     if_we_can_help_html: <a href="/contact">Contact us</a> if there is anything we can help with.
   core:
-    add_comment: Add comment
+    add_comment: Thêm bình luận
     beta: beta
-    comment: Comment
-    copy_link: Copy link
-    edit_profile: Edit profile
-    follow: Follow
-    follow_back: Follow back
-    following: Following
-    like: Like
-    loading: loading...
-    reaction: Reaction
-    report_abuse: Report abuse
-    search: Search
+    comment: Nhận xét
+    copy_link: Sao chép link
+    edit_profile: Chỉnh sửa hồ sơ
+    follow: Theo dõi
+    follow_back: Theo dõi lại
+    following: Đang theo dõi
+    like: Thích
+    loading: Đang tải...
+    reaction: Tương tác
+    report_abuse: Báo cáo lạm dụng
+    search: Tìm kiếm
   datetime:
     distance_in_words_ago: # https://github.com/openstreetmap/openstreetmap-website/issues/2255
       about_x_hours:
