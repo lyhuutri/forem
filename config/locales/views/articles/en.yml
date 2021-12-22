@@ -13,8 +13,8 @@ en:
         subscribe: Subscribe
       conduct:
         aria_label: Conduct controls
-        code: Code of Conduct
-        report: Report abuse
+        code: Quy tắc ứng xử
+        report: Báo cáo lạm dụng
       delete:
         heading: Are you sure you want to delete this article?
         desc:
@@ -40,14 +40,14 @@ en:
           placeholder: The reason why you're locking this discussion.
         submit: Lock discussion
       preview_discuss_html:
-        zero: New Discussion!
+        zero: Thảo luận mới!
         one: '#discuss <img src="%{image}" />%{count}'
         other: '#discuss <img src="%{image}" />%{count}'
       save:
-        title: Save to reading list
-        aria_label: Save to reading list
-        initial: Save
-        success: Saved
+        title: Lưu vào danh sách đọc
+        aria_label: Lưu vào danh sách đọc
+        initial: Lưu
+        success: Đã lưu
       series:
         subtitle: "%{slug} (%{size})"
         size:
@@ -82,8 +82,8 @@ en:
       for_org_html: "%{start} for %{end}%{org}"
       missing: Article No Longer Available
       posted_html: Posted on %{date}
-      read_next: Read next
+      read_next: Đọc tiếp
       reading_time:
-        one: "1 min read"
-        other: "%{count} min read"
-      right_nav: Author details
+        one: "1 phút đọc"
+        other: "%{count} phút đọc"
+      right_nav: Thông tin tác giả
