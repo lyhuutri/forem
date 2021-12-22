@@ -55,7 +55,7 @@ en:
         trend: Tài nguyên / hướng dẫn xu hướng
         recent: Truy vấn gần đây
       tags:
-        aria_label: Tùy chỉnh mức độ ưu tiên của tag
+        aria_label: Customize tag priority
         follow: Theo dõi
         my_tags: Tags của tôi
         popular_tags: Tags phổ biến
