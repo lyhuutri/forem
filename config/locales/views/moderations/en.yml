@@ -48,11 +48,11 @@ en:
           desc_html: Who <em>might</em> find this post most valuable, based on overall experience level?
           from: "%{lvl} - "
           level:
-            Advanced: Advanced
-            Beginner: Beginner
-            Expert: Expert
+            Advanced: Trình độ cao
+            Beginner: Người mới
+            Expert: Thành thạo
             Mid-level: Mid-level
-            Novice: Novice
+            Novice: Vỡ lòng
         flag: Flag user
         how: How does this work?
         hidden:
