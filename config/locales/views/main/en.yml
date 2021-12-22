@@ -4,11 +4,11 @@ en:
     main:
       aria_home: "%{community} Home"
       header:
-        create_account: Create account
+        create_account: Tạo tài khoản
         connect:
           aria_label: Connect
           icon: Connect
-        login: Log in
+        login: Đăng nhập
         nav:
           aria_label: Navigation menu
         moderation:
@@ -21,44 +21,44 @@ en:
       modal:
         create_account:
           aria_label: Create new account
-          text: Create account
+          text: Tạo tài khoản
         login:
           aria_label: Log in
-          text: Log in
-        footer: We strive for transparency and don't collect excess data.
+          text: Đăng nhập
+        footer: Chúng tôi cố gắng vì sự minh bạch và không thu thập dữ liệu dư thừa.
       nav:
         admin: Admin
         dashboard: Dashboard
         placeholder: "..."
-        list: Reading list
-        moderator_center: Moderator Center
-        other: Other
-        settings: Settings
+        list: Danh sách đọc
+        moderator_center: Trung tâm điều hành
+        other: Mục khác
+        settings: Cài đặt chung
       nav_name:
-        About: About
-        Code of Conduct: Code of Conduct
-        Contact: Contact
+        About: Thông tin
+        Code of Conduct: Quy tắc ứng xử
+        Contact: Liên hệ
         FAQ: FAQ
-        Listings: Listings
+        Listings: Danh sách
         Podcasts: Podcasts
-        Privacy Policy: Privacy Policy
-        Reading List: Reading List
+        Privacy Policy: Chính sách bảo mật
+        Reading List: Danh sách đọc
         Sponsors: Sponsors
         Tags: Tags
-        Terms of use: Terms of use
+        Terms of use: Điều khoản sử dụng
         Videos: Videos
       side:
         listings:
           heading: Listings
-          all: See all
-          new: Create a Listing
-        trend: trending guides/resources
-        recent: recently queried
+          all: Xem tất cả
+          new: Tạo một danh sách
+        trend: Tài nguyên / hướng dẫn xu hướng
+        recent: Truy vấn gần đây
       tags:
-        aria_label: Customize tag priority
-        follow: Follow
-        my_tags: My Tags
-        popular_tags: Popular Tags
+        aria_label: Tùy chỉnh mức độ ưu tiên của tag
+        follow: Theo dõi
+        my_tags: Tags của tôi
+        popular_tags: Tags phổ biến
       footer:
         aria_label: Site information
         built:
@@ -71,7 +71,7 @@ en:
         powered:
           text_html: Made with love and %{rails}. %{community} <span title="copyright">&copy;</span> %{copyright}.
           rails: Ruby on Rails
-      home: Home
-      create_post: Create Post
-      signout: Sign Out
-      signup: Sign In/Up
+      home: Trang chủ
+      create_post: Tạo chủ đề
+      signout: Đăng xuất
+      signup: Đăng nhập / Đăng ký
