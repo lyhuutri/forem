@@ -12,12 +12,12 @@ en:
         text_html: "Is your post written more for a beginner or an advanced audience? Adjust this level as a <em>gentle</em> indicator which will help show the post to the people who will benefit the most."
       nav:
         dashboard: Dashboard
-        text: "👉 Manage Your Post"
+        text: "👉 Quản lý bài viết của bạn"
       rating:
-        heading: Experience Level of Post
-        text: Who is this post most relevant for?
-        lower: "👈 Beginner"
-        higher: "Expert 👉"
+        heading: Mức độ kinh nghiệm của bài đăng
+        text: Bài đăng này phù hợp nhất với ai?
+        lower: "👈 Người bắt đầu"
+        higher: "Thành thạo 👉"
       tips:
         heading: 'Tips:'
         text_1: Viết tweet của riêng bạn về bài đăng, mô tả cá nhân tại sao bạn viết nó hoặc tại sao mọi người có thể thấy nó hữu ích. Chúng tôi có thể trả lời lại cho bạn..
