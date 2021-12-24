@@ -12,8 +12,8 @@ en:
         github_username: GitHub username
         url: Website url
         tag_line: Tag line
-        summary: Summary
-        location: Location
+        summary: Bản tóm tắt
+        location: Địa điểm
         email: Support email
         company_size: Organization size
         story: Our story
@@ -52,22 +52,22 @@ en:
         username: Username
         profile_image: Profile image
       users_notification_setting:
-        email_newsletter: Send me weekly newsletter emails
-        email_digest_periodic: Send me a periodic digest of top posts from my tags
-        email_membership_newsletter: Send me sustaining membership newsletter emails
-        email_tag_mod_newsletter: Send me tag moderator newsletter emails
-        email_community_mod_newsletter: Send me community moderator newsletter emails
-        email_comment_notifications: Send me an email when someone replies to me in a comment thread
-        email_follower_notifications: Send me an email when someone new follows me
-        email_mention_notifications: Send me an email when someone mentions me
-        email_badge_notifications: Send me an email when I receive a badge
-        email_connect_messages: Send me an email when I receive a direct message (while inactive)
-        email_unread_notifications: Send me occasional reminders that I have unread notifications on %{community}
-        mobile_mention_notifications: Send me a push notification when someone mentions me
-        mobile_comment_notifications: Send me a push notification when someone replies to me in a comment thread
-        welcome_notifications: Send me occasional tips on how to enhance my %{community} experience
-        reaction_notifications: Send notifications when someone reacts to my comments or posts
-        mod_roundrobin_notifications: Send me occasional community-success mod notifications
+        email_newsletter: Gửi cho tôi email bản tin hàng tuần
+        email_digest_periodic: Gửi cho tôi bản tóm tắt định kỳ về các bài đăng hàng đầu từ các thẻ của tôi
+        email_membership_newsletter: Gửi cho tôi email bản tin về tư cách thành viên duy trì
+        email_tag_mod_newsletter: Gửi cho tôi email bản tin của người kiểm duyệt thẻ
+        email_community_mod_newsletter: Gửi cho tôi email bản tin của người kiểm duyệt cộng đồng
+        email_comment_notifications: Gửi email cho tôi khi ai đó trả lời tôi trong một chuỗi nhận xét
+        email_follower_notifications: Gửi email cho tôi khi có người mới theo dõi tôi
+        email_mention_notifications: Gửi email cho tôi khi ai đó đề cập đến tôi
+        email_badge_notifications: Gửi email cho tôi khi tôi nhận được huy hiệu
+        email_connect_messages: Gửi email cho tôi khi tôi nhận được tin nhắn trực tiếp (trong khi không hoạt động)
+        email_unread_notifications: Thỉnh thoảng gửi cho tôi lời nhắc rằng tôi đã bật thông báo chưa đọc %{community}
+        mobile_mention_notifications: Gửi cho tôi thông báo đẩy khi ai đó đề cập đến tôi
+        mobile_comment_notifications: Gửi cho tôi một thông báo đẩy khi ai đó trả lời tôi trong một chuỗi nhận xét
+        welcome_notifications: Thỉnh thoảng gửi cho tôi các mẹo về cách nâng cao %{community} kinh nghiệm
+        reaction_notifications: Gửi thông báo khi ai đó phản ứng với nhận xét hoặc bài đăng của tôi
+        mod_roundrobin_notifications: Gửi cho tôi thông báo về mod thành công của cộng đồng không thường xuyên
       users_setting:
         feed_url: RSS Feed URL
     placeholder:
