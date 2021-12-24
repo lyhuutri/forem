@@ -3,26 +3,26 @@ en:
   views:
     comments:
       meta:
-        title_root: Discussion of %{title}
-        description: An article from the community
+        title_root: Thảo luận về %{title}
+        description: Một bài báo từ cộng đồng
         og:
-          title: Discussion of %{title}
+          title: Thảo luận về %{title}
           title_rel: "%{root} — %{site}"
           title_root: "[Discussion] %{title} — %{site}"
           description: "%{site} Comment"
       messages:
         create:
-          success: created
-          failure: comment already exists
+          success: Tạo
+          failure: Bình luận đã tồn tại
         markdown: 'There was an error in your markdown: %{error}'
         markdown_html: "<p>😔 There was an error in your markdown</p><hr><p>%{error}</p>"
       parent:
         subtitle_html: "%{start}Discussion on: %{end}%{title}"
         metadata_html: "%{name}%{on}"
         date: " on %{date}"
-        full: Full discussion
-        read: Read full post
-        view: View post
+        full: Thảo luận đầy đủ
+        read: Đọc toàn bộ bài đăng
+        view: Xem bài đăng
         view_full:
           one: View full discussion (%{count} comment)
           other: View full discussion (%{count} comments)
